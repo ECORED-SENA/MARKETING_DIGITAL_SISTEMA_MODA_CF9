@@ -186,7 +186,7 @@
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p.mb-4 Apreciado aprendiz le sugerimos leer el siguiente contenido de la página web Neetwork Businnes School, la cual nos inmiscuye en una información relacionada con la composición, entendida esta como la organización de elementos en un plano para dar un sentido comunicativo; pero antes de ir al sitio web piensa ¿Qué es dinamismo? ¿has visto equilibrio en algunas composiciones?; si te preguntáramos por tensión en el contexto de la composición ¿con qué palabra la defines? Tranquilo si no tienes respuestas empieza a explorar el contenido.
-                a.anexo.mb-5.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                a.anexo.mb-5.mb-lg-0(href="https://neetwork.com/7-principios-de-la-composicion-visual/" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
@@ -300,7 +300,7 @@
                   br
                   | Con la intención de ayudarle a clasificar los colores y sus atributos le sugerimos leer el capítulo cuatro titulado “El Color en el Diseño” de la autora Anna María (2014). Leer desde la página 87 hasta la 98.
 
-                a.anexo.mb-5.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                a.anexo.mb-5.mb-lg-0(href="http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=13687" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto

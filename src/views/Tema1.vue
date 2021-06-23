@@ -88,7 +88,7 @@
               br
               br
               | Con la intención de que observe algunos ejemplos de textura y para ampliar más información le sugerimos leer la página 75  del siguiente libro:
-            a.anexo.mb-5.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-5.mb-lg-0(href="https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/41395" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -106,7 +106,7 @@
               br
               br
               | Con la intención de que observe algunos ejemplos de forma y para ampliar más información le sugerimos leer las páginas 105 y 129 del siguiente libro:
-            a.anexo.mb-5.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-5.mb-lg-0(href="https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/41395" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -124,7 +124,7 @@
               br
               br
               | Con la intención de que observe algunos ejemplos de estructura y para ampliar más información le sugerimos leer las páginas 216 del siguiente libro:
-            a.anexo.mb-5.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-5.mb-lg-0(href="https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/41395" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto

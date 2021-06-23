@@ -212,7 +212,7 @@
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p.mb-4 Gracias por participar la lectura de la tipología de fotografías, ahora que ha evocado alguna experiencia relacionada con una imagen, le sugerimos explorar algunas fotografías de Delgado, J. C. (2021), allí se compilaron algunas fotos que le ayudará a fortalecer su conocimiento adquirido ¿qué esperas? ¿cuál será a que más le gustará?
-                a.anexo.mb-5.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                a.anexo.mb-5.mb-lg-0(href="https://www.crehana.com/co/blog/fotografia/tipos-de-fotografia-que-tienes-que-conocer/" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto

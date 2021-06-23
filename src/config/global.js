@@ -185,134 +185,181 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Baratas, M. A. (2016). Elaboración de materiales de marketing y comunicación. Ediciones de la U.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7126',
+    },
+    {
+      referencia:
+        'Bergondo, E. (2014). Fundamentos de la fotografía. Ministerio de Educación de España.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/114108?page=36',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Casa Verde Films (2014). Casa Verde Films: 7 Elementos básicos de la fotografía.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://casaverdefilms.wordpress.com/2014/05/01/7-elementos-basicos-de-la-fotografia/',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Delgado, J. C. (2021). Crehana: 16 tipos de fotografía para convencerte de expandir tu talento.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.crehana.com/co/blog/fotografia/tipos-de-fotografia-que-tienes-que-conocer/',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Díaz Soloaga, P. (2014). Comunicación y gestión de marcas de moda. Editorial Gustavo Gili.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/45542?page=100',
+    },
+    {
+      referencia: 'Espinel, R. (2021). ¿Qué es la producción audiovisual?',
+      link:
+        'https://produccionaudiovisual.com/que-es-la-produccion-audiovisual/',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Gavidia Anticona, J. A. (2015). Lenguaje y comunicación. Ediciones de la U.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5589',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Gaticos y Monetes. (2020). Gaticos y Monetes: La comunicación comercial.',
+      link: 'https://gaticosymonetes.com/8-la-comunicacion-comercial/',
+    },
+    {
+      referencia:
+        'ILERNA. (2019). ILERNA: La percepción visual: las leyes de la Gestalt.',
+      link: 'https://www.ilerna.es/blog/fp-a-distancia/3d/leyes-de-la-gestalt/',
+    },
+    {
+      referencia:
+        'López, Anna María. (2014). Curso diseño gráfico Fundamentos y técnicas. Madrid: Anaya Multimedia.',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=13687',
+    },
+    {
+      referencia:
+        'Loop Creativo. (2016). ¿Qué es una marca? – Fundamentos sobre Branding.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://loopcreativo.com/que-es-una-marca-fundamentos-sobre-branding/#:~:text=Podemos%20definir%20la%20marca%20como,lo%20diferencia%20de%20sus%20competidores',
+    },
+    {
+      referencia:
+        'Mandarina Brand (2016). Mandarina Brand: Importancia del contenido visual y herramientas de edición.',
+      link: 'https://mandarinabrand.com/blog/contenido-visual-herramientas/',
+    },
+    {
+      referencia:
+        'Munari, B. (2016). Diseño y comunicación visual: contribución a una metodología proyectual. Editorial Gustavo Gili. Digitalia.',
+      link: 'https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/41395',
+    },
+    {
+      referencia:
+        'Neetwork Businnes School. (2020). Neetwork Businnes School: 7 principios de la composición visual en diseño gráfico',
+      link: 'https://neetwork.com/7-principios-de-la-composicion-visual/',
+    },
+    {
+      referencia:
+        'Pérez, M. (2020). Composición fotográfica: mega guía con consejos y trucos imprescindibles.',
+      link:
+        'https://www.blogdelfotografo.com/consejos-trucos-composicion-fotografica/',
+    },
+    {
+      referencia:
+        'Productora audiovisual. (2015). 5 tipos de producciones audiovisuales.',
+      link:
+        'https://productoraudiovisualbarcelona.com/5-tipos-producciones-audiovisuales/',
+    },
+    {
+      referencia:
+        'Redactor Rock Content. (2018). Los mejores programas de diseño gráfico.',
+      link: 'https://rockcontent.com/es/blog/programas-de-diseno-grafico/',
+    },
+    {
+      referencia:
+        'Rollié, R. O. (2011). La enseñanza del diseño en comunicación visual. Editorial Nobuko. Digitalia.',
+      link: 'https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/34193',
+    },
+    {
+      referencia:
+        'Silva, S. (2020). Too Many Flash: Tipos de Fotografía: Define tu Estilo como Fotógrafo.',
+      link: 'https://toomanyflash.com/tipos-de-fotografia/',
+    },
+    {
+      referencia:
+        'Treintaycinco mm. (2020). Treintaycinco mm: Historia de la producción audiovisual.',
+      link: 'https://35mm.es/historia-produccion-audiovisual/',
+    },
+    {
+      referencia:
+        'Wong, W (1991). Fundamentos del diseño bi- y tri- dimensional. Gustavo Gili.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      termino: 'Bidimensional',
+      significado: 'Que posee dos caras, o sea un objeto plano.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Brief',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Documento que expone todos los elementos de una marca, en cuanto a su información, objetivos a alcanzar y plan de marca.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Ficción cinematográfica',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Género del cine, en que se desarrolla una historia fantasiosa o de ciencia ficción.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Feedback',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Se refiere a la retroalimentación, sobre todo en un proceso comunicativo.',
     },
     {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+      termino: 'Gráfica Vectorial',
+      significado: 'Imagen digital formada por objetos geométricos.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Gestalt',
       significado:
         'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
     },
     {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+      termino: 'Tridimensional',
+      significado: 'Que posee tres caras.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Tipografía',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Tarea de diseñar la forma de las letras que serán usadas en impresión.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Díaz, P. (2014). Comunicación y gestión de marcas de moda. Editorial Gustavo Gili.',
+      tipo: 'Libro',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/45542?page=100',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Pérez, M. (2020). Composición fotográfica: mega guía con consejos y trucos imprescindibles.',
+      tipo: 'Artículo web',
+      link:
+        'https://www.blogdelfotografo.com/consejos-trucos-composicion-fotografica/',
+    },
+    {
+      texto: 'Espinel, R. (2021). ¿Qué es la producción audiovisual?',
+      tipo: 'Página Web',
+      link:
+        'https://produccionaudiovisual.com/que-es-la-produccion-audiovisual/',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Redactor Rock Content. (2018). Los mejores programas de diseño gráfico.',
+      tipo: 'Artículo web',
+      link: 'https://rockcontent.com/es/blog/programas-de-diseno-grafico/',
     },
   ],
   creditos: {
@@ -350,7 +397,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Sergio Omar Camacho Orduz',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

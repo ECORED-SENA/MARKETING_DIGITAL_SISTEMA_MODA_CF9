@@ -22,7 +22,7 @@
               br
               br
               | Recuerda que en diferentes sitios existen video tutoriales que le enseñaran a utilizar algunas herramientas de edición de contenido digital ¿qué espera para ir a buscarlas?
-            a.anexo.mb-5.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-5.mb-lg-0(href="https://mandarinabrand.com/blog/contenido-visual-herramientas/" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
