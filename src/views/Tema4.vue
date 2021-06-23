@@ -16,7 +16,44 @@
     #t_4_1.titulo-segundo
       h2 4.1  Breve historia de la Producción Audiovisual
 
-    div.mb-5.p-4(style="background-color: yellow") Pendiente ajuste del diseñador
+    .row.justify-content-center
+      .col-md-10
+        .row.mb-4
+          .col-9.align-self-center
+            .bloque-texto-d.bloque-flotante.top.color-acento-contenido.p-3
+              .bloque-texto-d__texto.mb-2
+                p.mb-0 Según el portal web Treintaycinco mm (2020) el concepto de producción audiovisual empezó a usarse a partir de los años 30 en Estados Unidos y se popularizó en Francia en los años 50. De esta forma, se evidencia que el comic surgió al mismo tiempo que el cine y desde aquí se cimientan las bases para el concepto audiovisual que se conoce hasta el día de hoy.
+          .col-3
+            figure
+              img(src="@/assets/curso/tema4-imagen10.svg", alt="")
+        .row.mb-4
+          .col-3.align-self-center
+            figure
+              img(src="@/assets/curso/tema4-imagen11.svg", alt="")
+          .col-9.align-self-center
+            .bloque-texto-d.bloque-flotante.bottom.color-primario.p-3
+              .bloque-texto-d__texto.mb-2
+                p.mb-0 En el cine mudo los precursores son los Hermanos Lumiére, seguidos de George Méliès considerado el padre de la ficción cinematográfica, ya que desde ese momento transportaban a la audiencia en mágicos viajes inspirados en las historias de Julio Verne y con efectos especiales que deslumbraban a todos conociendo la poca experiencia de la época en este campo. Ya en el año de 1902, se traslada esta nueva tendencia a Inglaterra y Estados Unidos, donde la escuela de Brighton empieza a trabajar en montaje para narraciones, las cuales se hacían a mano pegando secuencia por secuencia, donde fue posible agregar efectos especiales con imágenes de ficción.
+        .row.mb-4
+          .col-9.align-self-center
+            .bloque-texto-d.bloque-flotante.top.color-acento-contenido.p-3
+              .bloque-texto-d__texto.mb-2
+                p.mb-0 Con el paso del tiempo, varios directores fueron agregando elementos que hasta hoy son tan rutinarios, como el flashback, el montaje en paralelo o la continuidad dramática, además de agregar nuevos impulsos al desarrollo cinematográfico.
+          .col-3
+            figure
+              img(src="@/assets/curso/tema4-imagen12.svg", alt="")
+        .row.mb-4
+          .col-3.align-self-center
+            figure
+              img(src="@/assets/curso/tema4-imagen13.svg", alt="")
+          .col-9.align-self-center
+            .bloque-texto-d.bloque-flotante.bottom.color-acento-botones.p-3
+              .bloque-texto-d__texto.mb-2
+                p.mb-0 Como tal los estudios de televisión y cine se emplearon desde los años 20, siendo Estados Unidos la cuna de ello, con productoras importantes hasta nuestros días, como Metro Goldwyn Mayer o Paramount. Estos lugares fueron adecuados con todo lo necesario para crear una película, como la zona de vestuario, utilería, maquillaje, sets, etc.
+
+        .bloque-texto-d.bloque-flotante.top.color-secundario.p-3
+          .bloque-texto-d__texto.mb-2
+            p.mb-5 Los medios audiovisuales marcaron un antes y un después en la historia, inicialmente las emisiones televisivas se transmitían en directo y se trabajó con informativos, tertulias o programas de divulgación. En 1965 con la creación del magnetoscopio se pudo grabar cintas para una posterior transmisión y eso se ha mantenido hasta el día de hoy. Al situarnos en el siglo XXI surgen plataformas pagas de producción audiovisual, que se han convertido en las grandes productoras, al igual que con el boom del internet, las redes sociales han marcado un hito en la transformación digital para el consumo de contenidos audiovisuales. Igualmente, no se puede dejar atrás los videojuegos y las animaciones que se catalogan como una importante industria en la actualidad que sigue apalancando cada vez más la trascendencia de la producción audiovisual.
 
     #t_4_2.titulo-segundo
       h2 4.2  Elementos básicos de la producción audiovisual

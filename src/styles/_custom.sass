@@ -123,3 +123,49 @@
     figure
       img
         max-height: 120px
+.bloque-texto-d
+  border-top: 0
+  &:before
+    top: 68%
+  &.color-primario:before
+    background-color: rgba($color-primario, 0.29)
+  &.color-primario
+    i
+      color: $color-primario
+  &.color-acento-botones:before
+    background-color: rgba($color-acento-botones, 0.29)
+  &.color-acento-botones
+    i
+      color: $color-acento-botones
+  h3
+    margin-bottom: 10px
+  i.fa-quote-right
+    position: absolute
+    bottom: 0
+    right: 0
+
+.bloque-texto-d.bloque-flotante
+  &.top:before
+    top: 0
+    bottom: 65%
+    left: 0
+    right: 65%
+  &.bottom:before
+    top: 65%
+    bottom: 0
+    left: 65%
+    right: 0
+  &.color-acento-contenido:before
+    background-color: rgba($color-acento-contenido, 0.29)!important
+  &.color-acento-botones:before
+    background-color: rgba($color-acento-botones, 0.29)!important
+  &.color-primario:before
+    background-color: rgba($color-primario, 0.29)!important
+  &.color-secundario:before
+    background-color: rgba($color-secundario, 0.29)!important
+  i
+    display: none
+
+.img-infografica__item__dot
+  &.color-primario:after
+    background-color: rgba($color-primario, 0.29)!important

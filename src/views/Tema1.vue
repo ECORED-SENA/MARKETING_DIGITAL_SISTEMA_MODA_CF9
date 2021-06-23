@@ -51,7 +51,32 @@
     #t_1_1.titulo-segundo
       h2 1.1  Comunicación Visual
 
-    div.mb-5.p-4(style="background-color: yellow") Pendiente ajuste del diseñador
+    .row.justify-content-center.mb-5
+      .col-md-10
+        .row.mb-4
+          .col-md-8
+            .bloque-texto-d.color-primario.p-3
+              .bloque-texto-d__texto.mb-2
+                i.fas.fa-quote-left
+                h3.text-regular.px-5 La comunicación visual se entiende como el tipo de comunicación apoyada en imágenes o medios visuales para transmitir un mensaje o dar a conocer una idea. Aunque en el mundo es posible percibir diversos códigos, el que lleva preponderancia por encima de los demás es el visual y con ello se ha usado las ventajas que la imagen supone, entendiendo que esta no solo es una representación de un determinado referente, sino que se construye por un conjunto de sentidos definidos en diversas lecturas.
+                i.fas.fa-quote-right
+              .bloque-texto-d__autor
+                .h5.mb-0 (Rollié, 2011)
+          .col-md-4
+            figure
+              img(src='@/assets/curso/tema1-imagen19.svg', alt='')
+        .row
+          .col-md-4
+            figure
+              img(src='@/assets/curso/tema1-imagen20.svg', alt='')
+          .col-md-8
+            .bloque-texto-d.color-acento-botones.p-3
+              .bloque-texto-d__texto.mb-2
+                i.fas.fa-quote-left
+                h3.text-regular.px-5 Para entender la comunicación visual es importante identificar dos componentes: el mensaje y el análisis de sus componentes. A su vez, el mensaje se divide en la información que este proporciona y el soporte visual, reconociendo que este último se conforma por todos los elementos que se utilizan para darle coherencia con respecto a la información emitida, como son: la textura, la forma, la estructura, el módulo y el movimiento.
+                i.fas.fa-quote-right
+              .bloque-texto-d__autor
+                .h5.mb-0 (Munari, 2016)
 
     //- TabsB debe ir acompañado de una de una de estas clases =>
     //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones

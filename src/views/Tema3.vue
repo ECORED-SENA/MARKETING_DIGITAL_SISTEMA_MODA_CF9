@@ -42,6 +42,9 @@
 
     Separador
 
+    #t_3_2.titulo-segundo
+      h2 3.2  Elementos básicos de la fotografia
+
     p.mb-5 La fotografía aporta mucho valor a toda imagen que se desee exponer, la manera en que se muestra y los elementos utilizados influyen en gran medida (Casa Verde Films, 2014). Explora el siguiente recurso de aprendizaje para que usted tenga elementos para hacer una fotografía acorde a una intención laboral o personal:
 
     .tarjeta.tarjeta--gris.p-4.mb-5
@@ -121,8 +124,8 @@
 
     Separador
 
-    #t_3_2.titulo-segundo
-      h2 3.2  Tipos de Fotografía
+    #t_3_3.titulo-segundo
+      h2 3.3  Tipos de Fotografía
 
     p.mb-5 Al entender que se desarrolla la fotografía análoga utilizada en tiempos anteriores y la fotografía digital, que prevalece en la actualidad, existe un amplio abanico de posibilidades para desarrollar este arte en función de los objetivos deseados. Por ello, según Silva (2020) se identifican estos tipos de fotografía.
       br
