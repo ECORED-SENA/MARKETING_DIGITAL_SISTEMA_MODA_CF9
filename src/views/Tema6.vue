@@ -50,6 +50,12 @@
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p.mb-4 En la fundamentación de marca se involucran diversos elementos tales como: la imagen corporativa, colores corporativos, manual de identidad corporativa entre otros. En este sentido hemos seleccionado el texto “Elaboración de materiales de marketing y comunicación” de Baratas, M. A. (2016) para que hagas una lectura individual que lo llevara a la asimilación de información que tendrá sentido para tomar decisiones con respecto a la identidad de una marca. Le sugerimos leer desde la página 17 a la 29. Ingresa con su usuario y contraseña de la Biblioteca SENA. Adelante.
+                a.anexo.mb-5.mb-lg-0(href="http://www.ebooks7-24.com.bdigital.sena.edu.co/stage.aspx?il=7126&pg=&ed=" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-link.svg")
+                  .anexo__texto
+                    p Leer texto
+                      strong  Elaboración de materiales de marketing y comunicación de Baratas, M. A. (2016).
             .col-lg-4.mb-0.mb-lg-0.img-link
               figure(@click="openLink")
                 img(src='@/assets/curso/tema6-imagen3.svg', alt='')

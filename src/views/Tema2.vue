@@ -121,8 +121,7 @@
                 p
                   strong Posición
                   br
-                  |  Se determina por su relacion con la estructura del diseño.
-
+                  |  Se determina por su relación con la estructura del diseño.
             .row.mb-4.px-5
               .col-auto
                 figure

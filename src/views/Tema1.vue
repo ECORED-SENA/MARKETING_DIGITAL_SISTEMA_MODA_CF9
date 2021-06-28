@@ -171,16 +171,16 @@
           span 2
         p
           strong Comunicación visual intencional
-          | : en esta se espera que el receptor adquiera el significado del mensaje tal cual como lo envió el emisor. Esta se examina a través de dos aspectos: Información estética e Información Práctica.
+          | : en esta se espera que el receptor adquiera el significado del mensaje tal cual como lo envió el emisor. Esta se examina a través de dos aspectos: información estética e información práctica.
           br
           br
           span.ms-3
-            strong - Información Estética
+            strong - Información estética
             | : se define por un mensaje que informe acerca de algo, por ejemplo: los elementos que definen una forma.
           br
           br
           span.ms-3
-            strong - Información Práctica:
+            strong - Información práctica:
             | : se define por una imagen como tal, como una fotografía, una señalética, etc.
 
     Separador
