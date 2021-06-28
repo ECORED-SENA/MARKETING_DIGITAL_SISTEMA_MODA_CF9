@@ -44,12 +44,12 @@
           .tarjeta.color-acento-contenido.p-3(x="39%" y="90%")
             p.mb-0  Se determina por el medio usado para desplegar el mensaje.
 
-    p.mb-5 Identificados los elementos de la comunicación, es necesario valorar las características de las Comunicación Visual y Comercial. Adelante
+    p.mb-5 Identificados los elementos de la comunicación, es necesario valorar las características de la comunicación visual y comercial. Adelante
 
     Separador
 
     #t_1_1.titulo-segundo
-      h2 1.1  Comunicación Visual
+      h2 1.1  Comunicación visual
 
     .row.justify-content-center.mb-5
       .col-md-10

@@ -26,9 +26,9 @@
                   img(src='@/assets/curso/tema2-imagen2.svg', alt='')
               .col
                 p
-                  strong Punto:
+                  strong Punto
                   br
-                  |  indica posición y no ocupa una zona en el espacio, puede definirse como el principio y fin de una línea o la conexión entre estas.
+                  |  Indica posición y no ocupa una zona en el espacio, puede definirse como el principio y fin de una línea o la conexión entre estas.
 
             .row.mb-4
               .col-auto
@@ -36,9 +36,9 @@
                   img(src='@/assets/curso/tema2-imagen3.svg', alt='')
               .col
                 p
-                  strong Línea:
+                  strong Línea
                   br
-                  |  el recorrido de un punto que se mueve puede definirse como una línea, ésta determina los bordes de un plano ya que tiene posición y dirección.
+                  |  El recorrido de un punto que se mueve puede definirse como una línea, ésta determina los bordes de un plano ya que tiene posición y dirección.
 
             .row.mb-4
               .col-auto
@@ -46,9 +46,9 @@
                   img(src='@/assets/curso/tema2-imagen4.svg', alt='')
               .col
                 p
-                  strong Plano:
+                  strong Plano
                   br
-                  |  el plano define los límites extremos de un volumen y se determina como el recorrido de una línea en movimiento. Es de destacar que un plano tiene largo y ancho, pero no posee grosor.
+                  |  El plano define los límites extremos de un volumen y se determina como el recorrido de una línea en movimiento. Es de destacar que un plano tiene largo y ancho, pero no posee grosor.
 
             .row.mb-0
               .col-auto
@@ -56,9 +56,9 @@
                   img(src='@/assets/curso/tema2-imagen5.svg', alt='')
               .col
                 p
-                  strong Volumen:
+                  strong Volumen
                   br
-                  |  el recorrido de un plano en movimiento se define como volumen, además tiene una posición en el espacio.
+                  |  El recorrido de un plano en movimiento se define como volumen, además tiene una posición en el espacio.
 
           .row(numero="2" titulo="Elementos visuales").px-4.py-2
             .row.mb-4
@@ -67,9 +67,9 @@
                   img(src='@/assets/curso/tema2-imagen6.svg', alt='')
               .col
                 p
-                  strong Forma:
+                  strong Forma
                   br
-                  |  manera de ser identificado un elemento, a través de la percepción visual.
+                  |  Manera de ser identificado un elemento, a través de la percepción visual.
 
             .row.mb-4
               .col-auto
@@ -77,9 +77,9 @@
                   img(src='@/assets/curso/tema2-imagen7.svg', alt='')
               .col
                 p
-                  strong Medida:
+                  strong Medida
                   br
-                  |  se refiere al tamaño que poseen todas las formas, ya sea algo grande o pequeño con relación a un espacio determinado.
+                  |  Se refiere al tamaño que poseen todas las formas, ya sea algo grande o pequeño con relación a un espacio determinado.
 
             .row.mb-4
               .col-auto
@@ -87,9 +87,9 @@
                   img(src='@/assets/curso/tema2-imagen8.svg', alt='')
               .col
                 p
-                  strong Color:
+                  strong Color
                   br
-                  |  es una característica para distinguir una forma, ya sea con los colores primarios y sus derivados, además de los colores neutros..
+                  |  Es una característica para distinguir una forma, ya sea con los colores primarios y sus derivados, además de los colores neutros..
 
             .row.mb-0
               .col-auto
@@ -97,9 +97,9 @@
                   img(src='@/assets/curso/tema2-imagen9.svg', alt='')
               .col
                 p
-                  strong Textura:
+                  strong Textura
                   br
-                  |  características de la superficie de una forma, que conecta tanto la vista con el tacto.
+                  |  Características de la superficie de una forma, que conecta tanto la vista con el tacto.
 
           .row(numero="3" titulo="Elementos de relación").px-4.py-2
             p.mb-4 Se entiende como los elementos que determinan la ubicación e interrelación de las formas dentro de un diseño.
@@ -109,9 +109,9 @@
                   img(src='@/assets/curso/tema2-imagen10.svg', alt='')
               .col
                 p
-                  strong Dirección:
+                  strong Dirección
                   br
-                  |  manera de ser identificado un elemento, a través de la percepción visual.
+                  |  Tiene una incidencia directa entre la forma y la posición del espectador o con relación al espacio u ptras formas.
 
             .row.mb-4.px-5
               .col-auto
@@ -119,9 +119,9 @@
                   img(src='@/assets/curso/tema2-imagen11.svg', alt='')
               .col
                 p
-                  strong Posición:
+                  strong Posición
                   br
-                  |  se refiere al tamaño que poseen todas las formas, ya sea algo grande o pequeño con relación a un espacio determinado.
+                  |  Se determina por su relacion con la estructura del diseño.
 
             .row.mb-4.px-5
               .col-auto
@@ -129,9 +129,9 @@
                   img(src='@/assets/curso/tema2-imagen12.svg', alt='')
               .col
                 p
-                  strong Espacio:
+                  strong Espacio
                   br
-                  |  es una característica para distinguir una forma, ya sea con los colores primarios y sus derivados, además de los colores neutros..
+                  |  Toda forma ocupa un espacio, el cual también puede denotar la profundidad según sus características.
 
             .row.mb-0.px-5
               .col-auto
@@ -139,9 +139,9 @@
                   img(src='@/assets/curso/tema2-imagen13.svg', alt='')
               .col
                 p
-                  strong Gravedad:
+                  strong Gravedad
                   br
-                  |  características de la superficie de una forma, que conecta tanto la vista con el tacto.
+                  |  De acuerdo con las formas se tiende a una sensación de gravedad en los objetos, pero se debe aclarar que esta no es visual si no psicológica.
 
           .row(numero="4" titulo="Elementos prácticos").px-4.py-2
             .row.mb-4
@@ -150,9 +150,9 @@
                   img(src='@/assets/curso/tema2-imagen14.svg', alt='')
               .col
                 p
-                  strong Representación:
+                  strong Representación
                   br
-                  |  se define a las formas realizadas por el ser humano que representan un elemento del mundo o de la naturaleza.
+                  |  Se define a las formas realizadas por el ser humano que representan un elemento del mundo o de la naturaleza.
 
             .row.mb-4
               .col-auto
@@ -160,9 +160,9 @@
                   img(src='@/assets/curso/tema2-imagen15.svg', alt='')
               .col
                 p
-                  strong Significado:
+                  strong Significado
                   br
-                  |  surge cuando un diseño genera un mensaje.
+                  |  Surge cuando un diseño genera un mensaje.
 
             .row.mb-4
               .col-auto
@@ -170,9 +170,9 @@
                   img(src='@/assets/curso/tema2-imagen16.svg', alt='')
               .col
                 p
-                  strong Función:
+                  strong Función
                   br
-                  |  es el objetivo para lo cual fue creado un diseño.
+                  |  Es el objetivo para lo cual fue creado un diseño.
 
     #t_2_1.titulo-segundo
       h2 2.1  Principios de la composición gráfica
@@ -233,25 +233,29 @@
             figure
               img(src='@/assets/curso/tema2-imagen19.svg', alt='')
           //- figcaption Leyenda de la imagen
-          .tarjeta.color-acento-contenido.p-3(x="12%" y="95%")
+          .tarjeta.color-acento-contenido.p-3(x="12%" y="98%")
             p.mb-0 Los elementos que se encuentran en determinada distancia suelen ser percibidos como un grupo o un objeto como tal.
-          .tarjeta.color-acento-contenido.p-3(x="24%" y="5%")
+          .tarjeta.color-acento-contenido.p-3(x="24%" y="2%")
             p.mb-0 Dependiendo de la ubicación de los elementos de un diseño, la atención se fija en éstos.
-          .tarjeta.color-acento-contenido.p-3(x="37%" y="95%")
+          .tarjeta.color-acento-contenido.p-3(x="38%" y="98%")
             p.mb-0 Aunque no haya un patrón existente, la percepción visual se guía por un elemento que supone la mente.
-          .tarjeta.color-acento-contenido.p-3(x="49%" y="5%")
+          .tarjeta.color-acento-contenido.p-3(x="50%" y="2%")
             p.mb-0 Los elementos que se parecen por cualquiera de sus propiedades, se perciben como un grupo o un objeto como tal.
-          .tarjeta.color-acento-contenido.p-3(x="61.3%" y="95%")
+          .tarjeta.color-acento-contenido.p-3(x="63%" y="98%")
             p.mb-0 A las figuras incompletas, la mente agrega elementos para generar un cierre
-          .tarjeta.color-acento-contenido.p-3(x="75.4%" y="5%")
+          .tarjeta.color-acento-contenido.p-3(x="77%" y="2%")
             p.mb-0 La percepción visual permite generar una separación entre el fondo de los demás elementos, entendiendo que no existe uno sin el otro.
-          .tarjeta.color-acento-contenido.p-3(x="87%" y="95%")
+          .tarjeta.color-acento-contenido.p-3(x="90%" y="98%")
             p.mb-0 Se percibe las imágenes simétricas como si fueran iguales.
 
     Separador
 
     #t_2_3.titulo-segundo
       h2 2.3  Teoría del Color
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/rlGfZoeO3Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 Dentro del diseño, el color tiene un papel fundamental a la hora de caracterizar elementos, siendo éste un componente esencial para agregar valor a la percepción visual en la transmisión de un mensaje. En el planeta existe una infinidad de colores con los que es posible trabajar para lograr elementos compositivos enfocados al objetivo deseado.
       br
@@ -277,7 +281,7 @@
               h3.text-center Colores secundarios
               p.text-center.mb-4 Mezcla de colores primarios
               .row.justify-content-center.mb-0
-                .col-8
+                .col-12
                   figure
                     img(src='@/assets/curso/tema2-imagen21.svg', alt='')
           .col-4.d-flex
@@ -285,7 +289,7 @@
               h3.text-center Colores terciarios
               p.text-center.mb-4 Mezcla de dos colores secundarios
               .row.justify-content-center.mb-0
-                .col-8
+                .col-11
                   figure
                     img(src='@/assets/curso/tema2-imagen22.svg', alt='')
 
@@ -331,7 +335,7 @@
     .row.mb-5.justify-content-center
       .col-md-10
         .row
-          .col-md-8.align-self-center
+          .col-md-7.align-self-center
             ul.lista-ul--color.mb-4
               li
                 i.lista-ul__vineta
@@ -355,7 +359,7 @@
                   | : contorno, sombra, etc.
             p.mb-0 Es importante destacar que a través del uso de las distintas variables pueden reforzar el significado de las palabras expresadas, esta es la mejor manera de direccionar la intensión del mensaje de la pieza gráfica.
 
-          .col-md-4
+          .col-md-5
             .titulo-sexto.color-acento-contenido
               p.mb-0
                 strong Figura 1
@@ -373,7 +377,7 @@
       .col-md-3.d-flex
         .tarjeta--boton.color-primario.p-0.mb-4.pb-3
           .color-primario.text-center.py-1.fw-bold.mb-4 Romanas
-          p.mb-4.px-4 Este tipo de fuentes mantiene armonía en sus proporciones y un importante contraste entre elementos rectos y curvos. De esta clasificación se identifican cinco grupos: Antiguas, de Transición, Modernas, Mecanos e Incisas.
+          p.mb-4.px-4 Este tipo de fuentes mantiene armonía en sus proporciones y un importante contraste entre elementos rectos y curvos. De esta clasificación se identifican cinco grupos: antiguas, de transición, modernas, mecanos e incisas.
           .row.justify-content-center.mb-3
              .col-7
                figure
@@ -381,7 +385,7 @@
       .col-md-3.d-flex
         .tarjeta--boton.color-acento-contenido.p-0.mb-4.pb-3
           .color-acento-contenido.text-center.py-1.fw-bold.mb-4 Palo seco
-          p.mb-4.px-4 Este tipo de fuentes tipográficas se enfocan en su esquema esencial y también pueden ser llamadas sans serif. Estas se dividen en dos grupos: Lineales sin modulación y Grotescas.
+          p.mb-4.px-4 Este tipo de fuentes tipográficas se enfocan en su esquema esencial y también pueden ser llamadas sans serif. Estas se dividen en dos grupos: lineales sin modulación y grotescas.
           .row.justify-content-center.mb-3
              .col-7
                figure
@@ -389,7 +393,7 @@
       .col-md-3.d-flex
         .tarjeta--boton.color-primario.p-0.mb-4.pb-3
           .color-primario.text-center.py-1.fw-bold.mb-4 Rotuladas
-          p.mb-4.px-4 Este tipo de fuentes permiten identificar el instrumento caligráfico con el que fueron realizadas. Se dividen en tres grupos: Caligráficas, Góticas y Cursivas informales.
+          p.mb-4.px-4 Este tipo de fuentes permiten identificar el instrumento caligráfico con el que fueron realizadas. Se dividen en tres grupos: caligráficas, góticas y cursivas informales.
           .row.justify-content-center.mb-3
              .col-7
                figure
@@ -397,7 +401,7 @@
       .col-md-3.d-flex
         .tarjeta--boton.color-acento-contenido.p-0.mb-4.pb-3
           .color-acento-contenido.text-center.py-1.fw-bold.mb-4 Decorativas
-          p.mb-4.px-4 Este tipo de fuentes poseen mayor libertad en su realización y por lo tanto una determinada personalidad. Se dividen en dos grupos: Fantasía y Época.
+          p.mb-4.px-4 Este tipo de fuentes poseen mayor libertad en su realización y por lo tanto una determinada personalidad. Se dividen en dos grupos: fantasía y época.
           .row.justify-content-center.mb-3
              .col-7
                figure
@@ -411,7 +415,7 @@
             br
             | Clasificación DIN
         figure
-          img(src='@/assets/curso/tema2-imagen30.svg', alt='')
+          img(src='@/assets/curso/tema2-imagen30.jpg', alt='')
           figcaption Nota. La imagen fue tomada de Anna María López (2014) del texto “Curso diseño gráfico Fundamentos y técnicas”.
 
     #t_2_5.titulo-segundo

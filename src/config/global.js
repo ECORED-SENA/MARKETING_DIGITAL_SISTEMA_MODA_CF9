@@ -29,7 +29,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Comunicación Visual',
+            titulo: 'Comunicación visual',
             hash: 't_1_1',
           },
           {
@@ -56,13 +56,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Leyes de la gestalt',
+            titulo: 'Leyes de la Gestalt',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Teoría del Color',
+            titulo: 'Teoría del color',
             hash: 't_2_3',
           },
           {
@@ -101,7 +101,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'Tipos de Fotografía',
+            titulo: 'Tipos de fotografía',
             hash: 't_3_3',
           },
         ],
@@ -116,7 +116,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'Breve historia de la Producción Audiovisual',
+            titulo: 'Breve historia de la producción audiovisual',
             hash: 't_4_1',
           },
           {
@@ -377,6 +377,29 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'María Camila Alvarez Trujillo',
+        cargo: 'Contratista diseño curricular',
+        centro:
+          'Regional Antioquia - Centro de Formación en Diseño, Cinfección y Moda',
+      },
+      {
+        nombre: 'Liliana María Ceballos',
+        cargo: 'Contratista diseño curricular',
+        centro:
+          'Regional Antioquia - Centro de Formación en Diseño, Cinfección y Moda',
+      },
+      {
+        nombre: 'Cristian Metaute Medina',
+        cargo: 'Diseñador instruccional',
+        centro:
+          'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica del SENA',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
     ],
     desarrolloProducto: [
       {
@@ -397,19 +420,29 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: [
+          'Daniela Muñoz Bedoya',
+          'Laura Giselle Murcia Pardo',
+          'Lina Perez',
+          'Andrés Herrera',
+        ],
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
         nombre: 'Sergio Omar Camacho Orduz',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

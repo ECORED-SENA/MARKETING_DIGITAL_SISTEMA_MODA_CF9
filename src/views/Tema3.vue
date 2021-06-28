@@ -125,7 +125,7 @@
     Separador
 
     #t_3_3.titulo-segundo
-      h2 3.3  Tipos de Fotografía
+      h2 3.3  Tipos de fotografía
 
     p.mb-5 Al entender que se desarrolla la fotografía análoga utilizada en tiempos anteriores y la fotografía digital, que prevalece en la actualidad, existe un amplio abanico de posibilidades para desarrollar este arte en función de los objetivos deseados. Por ello, según Silva (2020) se identifican estos tipos de fotografía.
       br
@@ -195,7 +195,7 @@
             .row.p-5
               .col-12.pb-4.px-5
                 .h3 Fotografía de producto
-                p.mb-0 Fotografías enfocadas a destacar las características de determinado producto para su promoción y comercialización
+                p.mb-0 Fotografías enfocadas a destacar las características de determinado producto para su promoción y comercialización.
             .row.p-5
               .col-12.pb-4.px-5
                 .h3 Fotografía de moda

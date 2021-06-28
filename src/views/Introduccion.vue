@@ -46,7 +46,7 @@
               | ¿Cuál es el propósito de este
               br
               | momento de aprendizaje?
-            p.mx-3 Una vez finalices este componente de formación se espera que usted tenga la capacidad adaptar piezas comunicacionales digitales, de acuerdo a la estrategia de mercadeo.
+            p.mx-3 Una vez finalice este componente de formación se espera que usted tenga la capacidad adaptar piezas comunicacionales digitales, de acuerdo a la estrategia de mercadeo.
 
           .col-4
             hr.hl.middle-right
@@ -57,7 +57,7 @@
               | ¿Cómo finalizar este
               br
               | componente de formación?
-            p.mx-3 Para culminarlo debes recorrer la ruta de aprendizaje que se ha creado a partir de contenido temático y las actividades de aprendizaje.
+            p.mx-3 Para culminarlo debe recorrer la ruta de aprendizaje que se ha creado a partir de contenido temático y las actividades de aprendizaje.
 
         .cajon.color-primario.p-4.mb-4
           .h5 Recuerda
@@ -74,7 +74,7 @@
                   i.lista-ul__vineta
                   | Si tienes dudas con respecto a su proceso no dudes en escribirle un correo a su instructor.
               p.mb-4 ¿Qué esperar para iniciar? Observa el siguiente video:
-              a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=R7kJ6Ro_XBk" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto

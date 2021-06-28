@@ -14,7 +14,7 @@
     p.mb-5 Así como la fotografía, la producción audiovisual se cataloga como otro tipo de arte al darle movimiento a una imagen y maneja los mismos elementos compositivos en su imagen. De esta forma, la producción audiovisual se enfoca en la generación de contenidos audiovisuales para las distintas plataformas, desde las grandes producciones cinematográficas hasta la simpleza de subir una historia en redes sociales desde un teléfono inteligente.
 
     #t_4_1.titulo-segundo
-      h2 4.1  Breve historia de la Producción Audiovisual
+      h2 4.1  Breve historia de la producción audiovisual
 
     .row.justify-content-center
       .col-md-10
@@ -71,7 +71,7 @@
                 img(src="@/assets/curso/tema4-imagen2.svg", alt="")
               p.text-center
                 b Planificación
-              p.text-center Etapa llamada Pre-Producción, se debe realizar una revisión del guion técnico, elegir el personal adecuado, los lugares y contrataciones. Termina con un plan de acción.
+              p.text-center Etapa llamada pre-producción, se debe realizar una revisión del guion técnico, elegir el personal adecuado, los lugares y contrataciones. Termina con un plan de acción.
           .col-md-4.d-flex
             .tarjeta-numerada.color-secundario.p-4
               .tarjeta-numerada__numero
@@ -80,7 +80,7 @@
                 img(src="@/assets/curso/tema4-imagen3.svg", alt="")
               p.text-center
                 b Ejecución
-              p.text-center Etapa llamada Producción, se lleva a cabo todo el plan de acción y se determina la participación de un determinado talento humano y equipos tecnológicos.
+              p.text-center Etapa llamada producción, se lleva a cabo todo el plan de acción y se determina la participación de un determinado talento humano y equipos tecnológicos.
           .col-md-4.d-flex
             .tarjeta-numerada.color-acento-botones.p-4
               .tarjeta-numerada__numero
@@ -89,7 +89,7 @@
                 img(src="@/assets/curso/tema4-imagen4.svg", alt="")
               p.text-center
                 b Montaje y edición
-              p.text-center Etapa llamada Postproducción, se revisa todo el material generado en la producción y se procede con la elección del más adecuado. Luego un elección de imagen y sonido para finalmente la obra audiovisual.
+              p.text-center Etapa llamada postproducción, se revisa todo el material generado en la producción y se procede con la elección del más adecuado. Luego un elección de imagen y sonido para finalmente la obra audiovisual.
 
     #t_4_3.titulo-segundo
       h2 4.3  Tipos de producción audiovisual
