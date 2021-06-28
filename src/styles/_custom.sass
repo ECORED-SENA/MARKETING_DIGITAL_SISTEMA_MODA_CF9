@@ -169,3 +169,17 @@
 .img-infografica__item__dot
   &.color-primario:after
     background-color: rgba($color-primario, 0.29)!important
+
+@keyframes imagen-button
+  from
+    background-color: rgba($color-primario, 0.29)
+  to
+    background-color: $color-primario
+
+.img-link
+  cursor: pointer
+  transition: all 300ms
+  &:hover
+    border-radius: 20px
+    animation: imagen-button 600ms
+    animation-iteration-count: infinite
