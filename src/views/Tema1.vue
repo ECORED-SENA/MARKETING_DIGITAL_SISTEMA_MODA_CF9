@@ -14,7 +14,7 @@
     p.mb-4 El proceso de comunicación en el ser humano se desarrolla bajo una serie de códigos establecidos entre un emisor y un receptor al compartir un mensaje y generar una retroalimentación. Comunicarse es una necesidad básica de toda población en cualquier contexto para resolver problemas.
       br
       br
-      | Al situar la comunicación en el ámbito visual, se lleva a cabo a través de imágenes que expresan una idea, ya sea por la distribución del espacio, los colores, la composición, las herramientas utilizadas, el uso de textos, entre otros. Seguido a ello, la comunicación comercial se inclina más por el lado publicitario, al evidenciar todas las estrategias usadas para promocionar productos o servicios determinados, enfocadas mucho más hacia el marketing.
+      | Al situar la comunicación en el ámbito visual, se lleva a cabo a través de imágenes que expresan una idea, ya sea por la distribución del espacio, los colores, la composición, las herramientas utilizadas, el uso de textos, entre otros. Seguido a ello, la comunicación comercial se inclina más por el lado publicitario, al evidenciar todas las estrategias usadas para promocionar productos o servicios determinados, enfocadas mucho más hacia el <i>marketing</i> .
       br
       br
       | “La comunicación se ubica como la base de toda sociedad, por el simple hecho de generar interacción social” (Gavidia Anticona, 2015). Por ello, la comunicación presenta una tipología muy amplia de acuerdo con distintos componentes y aplicaciones, en este documento solo se hará énfasis en dos tipos, la comunicación visual y comercial. Pero primero se debe entender conceptos básicos en cuanto al proceso comunicativo en cualquier instancia, del que se desprenden diversas ramas para su uso en la vida cotidiana.
@@ -191,7 +191,7 @@
     p.mb-5 La comunicación comercial o corporativa está muy relacionada con el <i>marketing</i> y se enfoca en todos los elementos que permiten enviar un mensaje en el ámbito empresarial, a partir de la configuración de una imagen corporativa que mantenga equilibrio y cohesión. Gracias a este tipo de comunicación las organizaciones comerciales pueden posicionarse en el mercado y promover sus productos o servicios a públicos determinados con el objetivo de generar una necesidad de adquisición (Gaticos y Monetes, 2020).
       br
       br
-      | La comunicación comercial desarrollada tanto en ámbitos virtuales como presenciales está influenciada por el marketing, de esta forma, la comunicación comercial se inclina por cuatro variables o 4S’s que permiten generar una adecuada estrategia (Gaticos y Monetes, 2020).
+      | La comunicación comercial desarrollada tanto en ámbitos virtuales como presenciales está influenciada por el <i>marketing</i> , de esta forma, la comunicación comercial se inclina por cuatro variables o 4S’s que permiten generar una adecuada estrategia (Gaticos y Monetes, 2020).
 
     .row.justify-content-center
       .col-md-6

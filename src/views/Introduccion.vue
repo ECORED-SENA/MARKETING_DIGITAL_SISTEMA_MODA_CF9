@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-5 La definición de contenido digital es una oportunidad para las organizaciones porque implica una constante identificación de las necesidades de los clientes en el marco de su portafolio. Saber qué necesitan los clientes contribuye a mantener actualizado el plan de marketing.
+    p.mb-5 La definición de contenido digital es una oportunidad para las organizaciones porque implica una constante identificación de las necesidades de los clientes en el marco de su portafolio. Saber qué necesitan los clientes contribuye a mantener actualizado el plan de <i>marketing</i> .
       br
       br
       | Por lo anterior, el presente componente formativo surge ante la necesidad de la inexistencia de contenido digital en las organizaciones acorde a los intereses de información que desea un cliente para poder efectuar una compra. Para continuar, le sugerimos observar el siguiente recurso educativo para entender las condiciones y el contexto de aprendizaje. Bienvenido.
