@@ -20,7 +20,7 @@
       | “La comunicación se ubica como la base de toda sociedad, por el simple hecho de generar interacción social” (Gavidia Anticona, 2015). Por ello, la comunicación presenta una tipología muy amplia de acuerdo con distintos componentes y aplicaciones, en este documento solo se hará énfasis en dos tipos, la comunicación visual y comercial. Pero primero se debe entender conceptos básicos en cuanto al proceso comunicativo en cualquier instancia, del que se desprenden diversas ramas para su uso en la vida cotidiana.
       br
       br
-      | Por lo anterior, ¿se ha preguntado cuáles son los elementos básicos de la comunicación? Imagina una conversación entre un amigo y usted ¿quiénes intervienen? ¿cómo sucede?, para contestar estas preguntas identifica los elementos básicos de la comunicación. Según Gavidia Anticona (2015) en la comunicación, como proceso que involucra a unos participantes se conforma por los siguientes elementos:
+      | Por lo anterior, ¿se ha preguntado cuáles son los elementos básicos de la comunicación? Imagine una conversación entre un amigo y usted ¿quiénes intervienen? ¿cómo sucede?, para contestar estas preguntas identifique los elementos básicos de la comunicación. Según Gavidia Anticona (2015) en la comunicación, como proceso que involucra a unos participantes se conforma por los siguientes elementos:
 
     .row.justify-content-center
       .col-md-8
@@ -188,7 +188,7 @@
     #t_1_2.titulo-segundo
       h2 1.2  Comunicación comercial
 
-    p.mb-5 La comunicación comercial o corporativa está muy relacionada con el marketing y se enfoca en todos los elementos que permiten enviar un mensaje en el ámbito empresarial, a partir de la configuración de una imagen corporativa que mantenga equilibrio y cohesión. Gracias a este tipo de comunicación las organizaciones comerciales pueden posicionarse en el mercado y promover sus productos o servicios a públicos determinados con el objetivo de generar una necesidad de adquisición (Gaticos y Monetes, 2020).
+    p.mb-5 La comunicación comercial o corporativa está muy relacionada con el <i>marketing</i> y se enfoca en todos los elementos que permiten enviar un mensaje en el ámbito empresarial, a partir de la configuración de una imagen corporativa que mantenga equilibrio y cohesión. Gracias a este tipo de comunicación las organizaciones comerciales pueden posicionarse en el mercado y promover sus productos o servicios a públicos determinados con el objetivo de generar una necesidad de adquisición (Gaticos y Monetes, 2020).
       br
       br
       | La comunicación comercial desarrollada tanto en ámbitos virtuales como presenciales está influenciada por el marketing, de esta forma, la comunicación comercial se inclina por cuatro variables o 4S’s que permiten generar una adecuada estrategia (Gaticos y Monetes, 2020).

@@ -111,7 +111,7 @@
                 p
                   strong Dirección
                   br
-                  |  Tiene una incidencia directa entre la forma y la posición del espectador o con relación al espacio u ptras formas.
+                  |  Tiene una incidencia directa entre la forma y la posición del espectador o con relación al espacio u otras formas.
 
             .row.mb-4.px-5
               .col-auto
@@ -184,7 +184,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p.mb-4 Apreciado aprendiz le sugerimos leer el siguiente contenido de la página web Neetwork Businnes School, la cual nos inmiscuye en una información relacionada con la composición, entendida esta como la organización de elementos en un plano para dar un sentido comunicativo; pero antes de ir al sitio web piensa ¿Qué es dinamismo? ¿has visto equilibrio en algunas composiciones?; si te preguntáramos por tensión en el contexto de la composición ¿con qué palabra la defines? Tranquilo si no tienes respuestas empieza a explorar el contenido.
+                p.mb-4 Apreciado aprendiz le sugerimos leer el siguiente contenido de la página web Neetwork Businnes School, la cual nos inmiscuye en una información relacionada con la composición, entendida esta como la organización de elementos en un plano para dar un sentido comunicativo; pero antes de ir al sitio web piensa ¿Qué es dinamismo? ¿ha visto equilibrio en algunas composiciones?; si se le preguntára por tensión en el contexto de la composición ¿con qué palabra la definiria? Tranquilo si no tiene respuestas empieza a explorar el contenido.
                 a.anexo.mb-5.mb-lg-0(href="https://neetwork.com/7-principios-de-la-composicion-visual/" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
@@ -195,7 +195,7 @@
               figure
                 img(src='@/assets/curso/tema2-imagen17.svg', alt='')
 
-    p.mb-5 Ahora que has leído, podríamos ayudarte con este resumen sobre los elementos de la composición. Observa el siguiente recurso de aprendizaje:
+    p.mb-5 Ahora que ha leído, podríamos ayudar con este resumen sobre los elementos de la composición. Observe el siguiente recurso de aprendizaje:
 
     .row.justify-content-center
       .col-md-10
@@ -221,7 +221,7 @@
     Separador
 
     #t_2_2.titulo-segundo
-      h2 2.2  Leyes de la gestalt
+      h2 2.2  Leyes de la Gestalt
 
     p.mb-5 Las leyes de la Gestalt surgen del movimiento alemán Gestalt a principios del siglo XX, este se basa en que el todo es superior a la suma de sus partes (ILERNA, 2019). Este movimiento permitió entender las imágenes a partir de las siguientes leyes de la percepción visual:
 
@@ -450,7 +450,7 @@
               | Se encarga de la organización de los elementos que se incluyen dentro de un espacio, sobre todo en el diseño editorial.
 
 
-    p.mb-0 Hasta aquí hemos visto una aproximación a la fundamentación al diseño. Recuerda que cada día hay nueva información que actualiza lo que se ha expuesto aquí. Recurre constantemente a fuentes de información confiables para que esté enterado de las tendencias.
+    p.mb-0 Hasta aquí hemos visto una aproximación a la fundamentación al diseño. Recuerde que cada día hay nueva información que actualiza lo que se ha expuesto aquí. Recurra constantemente a fuentes de información confiables para que esté enterado de las tendencias.
 
 
 </template>

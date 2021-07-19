@@ -130,7 +130,7 @@
     p.mb-5 Al entender que se desarrolla la fotografía análoga utilizada en tiempos anteriores y la fotografía digital, que prevalece en la actualidad, existe un amplio abanico de posibilidades para desarrollar este arte en función de los objetivos deseados. Por ello, según Silva (2020) se identifican estos tipos de fotografía.
       br
       br
-      | Para la lectura de cada tipología le invitamos a realizar un ejercicio mental, cuando lea traiga a su mente una imagen que se asocie a cada característica de la fotografía. Empieza.
+      | Para la lectura de cada tipología le invitamos a realizar un ejercicio mental, cuando lea traiga a su mente una imagen que se asocie a cada característica de la fotografía. Empiece.
 
     .row.justify-content-center
       .col-md-8
@@ -139,7 +139,7 @@
             .row.p-5
               .col-12.pb-4.px-5
                 .h3 Fotografía publicitaria
-                p.mb-0 Tiene como función promover productos y servicios determinados, en conexión con el marketing y la comunicación de marca.
+                p.mb-0 Tiene como función promover productos y servicios determinados, en conexión con el <i>marketing</i> y la comunicación de marca.
             .row.p-5
               .col-12.pb-4.px-5
                 .h3 Fotografía artística
@@ -211,7 +211,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p.mb-4 Gracias por participar la lectura de la tipología de fotografías, ahora que ha evocado alguna experiencia relacionada con una imagen, le sugerimos explorar algunas fotografías de Delgado, J. C. (2021), allí se compilaron algunas fotos que le ayudará a fortalecer su conocimiento adquirido ¿qué esperas? ¿cuál será a que más le gustará?
+                p.mb-4 Gracias por participar la lectura de la tipología de fotografías, ahora que ha evocado alguna experiencia relacionada con una imagen, le sugerimos explorar algunas fotografías de Delgado, J. C. (2021), allí se compilaron algunas fotos que le ayudará a fortalecer su conocimiento adquirido ¿qué esperas? ¿cuál será la que más le gustará?
                 a.anexo.mb-5.mb-lg-0(href="https://www.crehana.com/co/blog/fotografia/tipos-de-fotografia-que-tienes-que-conocer/" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")

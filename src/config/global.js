@@ -185,7 +185,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Baratas, M. A. (2016). Elaboración de materiales de marketing y comunicación. Ediciones de la U.',
+        'Baratas, M. A. (2016). Elaboración de materiales de <i>marketing</i> y comunicación. Ediciones de la U.',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7126',
     },
     {

@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-5 La definición de contenido digital es una oportunidad para las organizaciones porque implica una constante identificación de las necesidades de los clientes en marco su portafolio. Saber qué necesitan los clientes contribuye a mantener actualizada el plan de marketing.
+    p.mb-5 La definición de contenido digital es una oportunidad para las organizaciones porque implica una constante identificación de las necesidades de los clientes en el marco de su portafolio. Saber qué necesitan los clientes contribuye a mantener actualizado el plan de marketing.
       br
       br
       | Por lo anterior, el presente componente formativo surge ante la necesidad de la inexistencia de contenido digital en las organizaciones acorde a los intereses de información que desea un cliente para poder efectuar una compra. Para continuar, le sugerimos observar el siguiente recurso educativo para entender las condiciones y el contexto de aprendizaje. Bienvenido.
@@ -60,20 +60,20 @@
             p.mx-3 Para culminarlo debe recorrer la ruta de aprendizaje que se ha creado a partir de contenido temático y las actividades de aprendizaje.
 
         .cajon.color-primario.p-4.mb-4
-          .h5 Recuerda
+          .h5 Recuerde
           .row
             .col-md-8
               ul.lista-ul--color
                 li
                   i.lista-ul__vineta
-                  | Mantener una disciplina de estudio de acuerdo a los tiempos que tienes para este componente de formación.
+                  | Mantener una disciplina de estudio de acuerdo a los tiempos que tiene para este componente de formación.
                 li
                   i.lista-ul__vineta
                   | Participar de los espacios de interacción del programa. Uno de ellos son los foros.
                 li
                   i.lista-ul__vineta
-                  | Si tienes dudas con respecto a su proceso no dudes en escribirle un correo a su instructor.
-              p.mb-4 ¿Qué esperar para iniciar? Observa el siguiente video:
+                  | Si tiene dudas con respecto a su proceso no dudes en escribirle un correo a su instructor.
+              p.mb-4 ¿Qué esperar para iniciar? Observe el siguiente video:
               a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=R7kJ6Ro_XBk" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
@@ -84,7 +84,7 @@
             .col-md-4
               figure
                 img(src="@/assets/curso/intro-imagen5.svg", alt="")
-        p.mb-0 Luego de reconocer el punto de partida de este proceso de aprendizaje digital, es oportuno que comiences con la apropiación de la información para que puedas desarrollar actividades de aprendizaje que lo llevarán a desarrollar conocimientos, habilidades y actitudes.
+        p.mb-0 Luego de reconocer el punto de partida de este proceso de aprendizaje digital, es oportuno que comience con la apropiación de la información para que pueda desarrollar actividades de aprendizaje que lo llevarán a desarrollar conocimientos, habilidades y actitudes.
 
 </template>
 

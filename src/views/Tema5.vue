@@ -18,10 +18,10 @@
             p.mb-4 Para la generación de piezas gráficas y comunicaciones existe una gran variedad de herramientas que permiten llevar a cabo tanto su construcción como edición. Es importante identificar cuáles son las que más se ajustan a las necesidades del producto audiovisual y sobre todo de la persona que las trabajará, puesto que existen en el mercado softwares libres o pagados, algunos más complejos que otros, teniendo en cuenta el producto a desarrollar. Esto supone una exploración adecuada de acuerdo con la facilidad de trabajo.
               br
               br
-              | Con la intención de que puedas identificar algunas herramientas que podrás utilizar en sus momentos de creatividad y creación de contenido, le sugerimos revisar el texto “Importancia del contenido visual y herramientas de edición” (2016). Será una lectura de más o menos 10 minutos.
+              | Con la intención de que pueda identificar algunas herramientas que podrá utilizar en sus momentos de creatividad y creación de contenido, le sugerimos revisar el texto “Importancia del contenido visual y herramientas de edición” (2016). Será una lectura de más o menos 10 minutos.
               br
               br
-              | Recuerda que en diferentes sitios existen video tutoriales que le enseñaran a utilizar algunas herramientas de edición de contenido digital ¿qué espera para ir a buscarlas?
+              | Recuerde que en diferentes sitios existen video tutoriales que le enseñaran a utilizar algunas herramientas de edición de contenido digital ¿qué espera para ir a buscarlas?
             a.anexo.mb-5.mb-lg-0(href="https://mandarinabrand.com/blog/contenido-visual-herramientas/" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
